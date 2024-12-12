@@ -7,6 +7,8 @@ Tasks :
 2. Development of the Backend part "Java, SpringBoot, Spring MVC, IOC, DATA, micro-services, Spring Security, JWT".
 3. Development of the FrontEnd part “TypeScript, Angular 8, Angular Materials”.
 
+-- Assuming table name is 'Decision_Action'
+-- Replace `rundate` with the specific date parameter
 
 WITH FilteredData AS (
     SELECT
